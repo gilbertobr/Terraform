@@ -6,7 +6,7 @@
 
 ### Download credential(*.json) into the directory
 ```
-export GOOGLE_APPLICATION_CREDENTIALS="/home/gilbertobr/testes/Terraform/gcp/install-virtualmin/credential.json"
+export GOOGLE_APPLICATION_CREDENTIALS="/home/gilbertobr/Terraform/gcp/install-virtualmin/credential.json"
 
 ```
 
